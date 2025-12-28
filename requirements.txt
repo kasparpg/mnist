@@ -1,0 +1,5 @@
+numpy
+pandas
+python-mnist
+torch
+torchvision
